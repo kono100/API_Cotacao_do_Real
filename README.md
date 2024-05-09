@@ -1,1 +1,1 @@
-[# Cloud](https://docs.awesomeapi.com.br/api-de-moedas)
+https://docs.awesomeapi.com.br/api-de-moedas
